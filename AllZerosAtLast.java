@@ -15,7 +15,7 @@ public class AllZerosAtLast {
                 arrL.add(arr[i]);
             }
         }
-        
+
         for(int i =1; i <= countOfZeros; i++){
             arrL.add(0);
         }
